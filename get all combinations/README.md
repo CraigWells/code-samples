@@ -2,11 +2,14 @@
 
 ## Background
 
-This one was created as just a bit of fun really. Challenges are often posted on the whiteboards at work. The challenge that inspired this code sample was:
+This one was created as just a bit of fun really. 
+
+Challenges are often posted on the whiteboards at work. 
+The challenge that inspired this code sample was:
 
 > Which two numbers when added together total 5? 
 
-So I decided that the challenge must be a commutable task and wrote a small function that would loop through all of the numbers between zero and five, and display all of the combinations of two numbers that would equal 5 when added together.
+So I decided that the challenge must be a computable task and wrote a small function that would loop through all of the numbers between zero and five, and display all of the combinations of two numbers that would equal 5 when added together.
 
 ## Features
 - Returns every combination of two numbers that can be added together to equal the value of the first input parameter (integer).
